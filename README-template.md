@@ -19,8 +19,18 @@ news-homepage -
 Description: Complete the challenge of creating a front end based on the images and assets given to use and make the site responsive for desktop, tablet, and mobile
 
 
-Peer Reviewer: 
+Peer Reviewer: Ellie Rasuli
 Review: 
+
+Everything looks really good, here are just a few small details to fix about the website:
+
+The little numbers on the lower bits look a little too high, and in the design the text is contained beside the images. Yours kinda spills out on top
+
+Read More button should be at the bottom of the little segment it's in
+
+The "Bright Future" text appears a bit too big
+
+There is a little too much extra space at the bottom of the "New" column
 
 ### The challenge
 
