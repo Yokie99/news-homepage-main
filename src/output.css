@@ -1280,6 +1280,10 @@ input:checked + .toggle-bg {
   height: 3rem;
 }
 
+.h-full {
+  height: 100%;
+}
+
 .w-1\/2 {
   width: 50%;
 }
@@ -1727,6 +1731,10 @@ input:checked + .toggle-bg {
 
 .pt-8 {
   padding-top: 2rem;
+}
+
+.ps-4 {
+  padding-inline-start: 1rem;
 }
 
 .text-center {
@@ -2273,6 +2281,18 @@ input:checked + .toggle-bg {
     gap: 2rem;
   }
 
+  .lg\:gap-10 {
+    gap: 2.5rem;
+  }
+
+  .lg\:gap-6 {
+    gap: 1.5rem;
+  }
+
+  .lg\:gap-5 {
+    gap: 1.25rem;
+  }
+
   .lg\:p-28 {
     padding: 7rem;
   }
@@ -2284,6 +2304,16 @@ input:checked + .toggle-bg {
   .lg\:py-6 {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+  }
+
+  .lg\:py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .lg\:py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
   }
 
   .lg\:pb-0 {
@@ -2304,6 +2334,10 @@ input:checked + .toggle-bg {
 
   .lg\:pb-4 {
     padding-bottom: 1rem;
+  }
+
+  .lg\:ps-4 {
+    padding-inline-start: 1rem;
   }
 
   .lg\:text-7xl {
@@ -2337,6 +2371,11 @@ input:checked + .toggle-bg {
 
   .lg\:text-\[1rem\] {
     font-size: 1rem;
+  }
+
+  .lg\:text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
   }
 
   .lg\:text-\[\] {
